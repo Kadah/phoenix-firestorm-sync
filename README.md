@@ -6,4 +6,3 @@ This repo runs the action to sync from the remote [phoenix-firestorm](https://vc
 
 Should auto sync every 5-15 minutes or so, at least when vcs.firestormviewer.org isn't throwing 403's.
  
-
